@@ -8,6 +8,10 @@ import {
 } from "react-router-dom";
 import FirstPage from "./Components/FirstPage";
 import SecondPage from "./Components/SecondPage";
+import ThirdPage from "./Components/ThirdPage";
+import ForthPage from "./Components/ForthPage";
+import FifthPage from "./Components/FifthPage";
+import SixthPage from "./Components/SixthPage";
 
 
 function App() {
@@ -21,6 +25,18 @@ function App() {
           </Route>
           <Route path="/installation">
             <SecondPage />
+          </Route>
+          <Route path="/tutorial">
+            <ThirdPage />
+          </Route>
+          <Route path="/demo-app">
+            <ForthPage />
+          </Route>
+          <Route path="/fifth-page">
+            <FifthPage />
+          </Route>
+          <Route path="/about-team">
+            <SixthPage />
           </Route>
         </Switch>
       </Router>
