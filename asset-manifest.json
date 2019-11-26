@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/lytovka/term-project.git/static/css/main.72357865.chunk.css",
+    "main.js": "/lytovka/term-project.git/static/js/main.27a24813.chunk.js",
+    "main.js.map": "/lytovka/term-project.git/static/js/main.27a24813.chunk.js.map",
+    "runtime-main.js": "/lytovka/term-project.git/static/js/runtime-main.0d7c7093.js",
+    "runtime-main.js.map": "/lytovka/term-project.git/static/js/runtime-main.0d7c7093.js.map",
+    "static/js/2.09a167f5.chunk.js": "/lytovka/term-project.git/static/js/2.09a167f5.chunk.js",
+    "static/js/2.09a167f5.chunk.js.map": "/lytovka/term-project.git/static/js/2.09a167f5.chunk.js.map",
+    "index.html": "/lytovka/term-project.git/index.html",
+    "precache-manifest.645e62365cdc545f1680f130121ea626.js": "/lytovka/term-project.git/precache-manifest.645e62365cdc545f1680f130121ea626.js",
+    "service-worker.js": "/lytovka/term-project.git/service-worker.js",
+    "static/css/main.72357865.chunk.css.map": "/lytovka/term-project.git/static/css/main.72357865.chunk.css.map",
+    "static/media/mongoFull.png": "/lytovka/term-project.git/static/media/mongoFull.d9fcc607.png",
+    "static/media/ratingReact.png": "/lytovka/term-project.git/static/media/ratingReact.2c516de8.png",
+    "static/media/reactFull.png": "/lytovka/term-project.git/static/media/reactFull.657da7d8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d7c7093.js",
+    "static/js/2.09a167f5.chunk.js",
+    "static/css/main.72357865.chunk.css",
+    "static/js/main.27a24813.chunk.js"
+  ]
+}
