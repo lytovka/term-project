@@ -3,7 +3,7 @@ import React from 'react';
 const SecondPage = () => {
     return(
         <p>
-            zalupa
+            Hello World
         </p>
     );
 }   
